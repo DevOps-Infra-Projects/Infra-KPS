@@ -2,7 +2,7 @@
 
 ## Create/Update with Terraform
 
-Update can be made using makefile targets wrapper
+Update can be made using the makefile targets wrapper
 
 * Plan testing cluster `make platform=aws cluster=applications-testing plan`
 * Apply Testing cluster `make platform=aws cluster=applications-testing apply`
